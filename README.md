@@ -14,5 +14,13 @@ probity.bio ever disagrees with the file here, the file here is the one that was
   published only after that review. Any analyst change to a score is published with its reason,
   in the brief.
 
-Graded results live on [probity.bio/track-record](https://probity.bio/track-record/). Calls are
-graded after the date, right or wrong.
+Each brief is also published as a page on [probity.bio](https://probity.bio/briefs/), and the two
+say the same words. Graded results live on
+[probity.bio/track-record](https://probity.bio/track-record/). Calls are graded after the date,
+right or wrong.
+
+## The record so far
+
+| Brief | Catalyst | Call | Committed |
+| --- | --- | --- | --- |
+| [GRAIL Galleri](briefs/grail-galleri.md) | FDA panel vote, Sep 23, 2026 | YES, 65% | Sep 21, 2026 |
