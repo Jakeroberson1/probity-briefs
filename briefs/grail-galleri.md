@@ -110,7 +110,7 @@ What the FDA's questions show it is worried about:
 - Whether post-approval studies are needed to fill in benefit-risk gaps not resolved by the 12-month pivotal data.
 
 - FDA's discussion questions are almost entirely about interpreting and labeling efficacy data (episode sensitivity by stage, per cancer type, inter-study variability) rather than about safety, suggesting the agency's core anxiety is over what claim the data can support, not whether the device is dangerous. [S1]
-- FDA explicitly states it has no outstanding safety questions for the panel, a strong signal safety is not the crux of this meeting. [S3]
+- FDA explicitly states it has no outstanding safety questions for the panel, a strong signal that safety is not the crux of this meeting. [S3]
 - FDA frames the 'early detection' question as an either/or ('if no... if yes...'), implying openness to an alternate, narrower indication rather than outright rejection. [S1]
 - The panel is also asked whether cancer-type-specific risk mitigations (labeling warnings/limitations) would suffice, again pointing toward a labeling fix rather than a benefit-risk failure. [S1]
 
